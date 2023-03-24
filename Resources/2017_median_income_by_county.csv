@@ -1,5 +1,4 @@
-GEO_ID,COUNTY_NAME,STATE_NAME,S1901_C01_001E,S1901_C01_012E
-Geography,Geographic Area Name,,Households!!Estimate!!Total,Households!!Estimate!!Median income (dollars)
+Geography,County,State,Total Households,Median Income
 0500000US01003,Baldwin County, Alabama,79120,55342
 0500000US01015,Calhoun County, Alabama,44507,46763
 0500000US01043,Cullman County, Alabama,30740,45044
