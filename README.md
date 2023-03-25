@@ -62,8 +62,6 @@ External factors such as changes in regulations, policies, economic condition an
 * There is a moderate negative correlation between the total energy generated and the average price of energy, while there is a weak positive correlation between the percentage of energy generated from fossil fuel sources when compared to the average price of energy in the county. 
 This suggests that combusting power plants, which burn fossil fuels such as coal, oil, and natural gas increases the price of energy generated unlike renewable sources of energy. 
 
-* Similarly, we found that energy generated from fossil fuels were also the largest contributors to poor air quality. This finding highlights the need for increased regulation and investment in renewable energy sources to reduce the negative impact of fossil fuel energy generation on air quality and public health.
-
 
 
 ## Future scope for the project:
